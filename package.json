@@ -1,0 +1,6 @@
+{
+  "name": "path-native",
+  "version": "1.0.0",
+  "description": "require('path') for React Native",
+  "dependencies": {}
+}
